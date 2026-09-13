@@ -85,7 +85,7 @@ const TechCatalogSection = () => {
                 </div>
 
                 
-                <div className="max-w-[300px] lg:w-1/4 border rounded-lg p-6 shadow max-h-[350px] overflow-y-auto">
+                <div className="max-w-75 lg:w-1/4 border rounded-lg p-6 shadow max-h-88 overflow-y-auto">
                     <h2 className="text-xl font-bold mb-4">
                         Your Stack ({stack.length} Technology Selected)
                     </h2>
